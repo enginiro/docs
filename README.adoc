@@ -1,0 +1,8 @@
+= Enginiro Docs
+
+This repository contains the configuration of Enginiro’s documentation
+generator. We are using https://antora.org/[Antora] and
+https://www.phpdoc.org/[phpDocumentor].
+
+Go to https://enginiro.github.io/docs/[enginiro.github.io/docs] to read the
+documentation.
