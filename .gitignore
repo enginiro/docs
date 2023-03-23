@@ -2,3 +2,6 @@
 /build/
 /sources/
 /phpdoc.phar
+
+/*.sublime-project
+/*.sublime-workspace
