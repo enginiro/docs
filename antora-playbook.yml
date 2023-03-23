@@ -1,6 +1,6 @@
 site:
   title: Enginiro Docs
-  start_page: translatable::index.adoc
+  start_page: enginiro::index.adoc
 ui: 
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable

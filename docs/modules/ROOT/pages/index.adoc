@@ -1,0 +1,13 @@
+= Enginiro
+Jakub Jabůrek <jaburek.jakub@gmail.com>
+
+The Enginiro project is a collection of reusable PHP libraries (components)
+that support development of e-commerce solutions.
+
+== List of components
+
+* xref:fulfillment-deadline:ROOT:index.adoc[Order Fulfillment Deadline]
+* xref:quantity:ROOT:index.adoc[Quantity]
+* xref:stock-availability:ROOT:index.adoc[Stock Availability]
+* xref:translatable:ROOT:index.adoc[Translatable]
+* xref:translator:ROOT:index.adoc[Translator]
