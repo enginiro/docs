@@ -6,6 +6,7 @@ that support development of e-commerce solutions.
 
 == List of components
 
+* xref:asset-bundle:ROOT:index.adoc[Asset Bundle]
 * xref:fulfillment-deadline:ROOT:index.adoc[Order Fulfillment Deadline]
 * xref:quantity:ROOT:index.adoc[Quantity]
 * xref:stock-availability:ROOT:index.adoc[Stock Availability]
