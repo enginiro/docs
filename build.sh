@@ -26,6 +26,10 @@ while read -r repository; do
 		git pull
 		cd ../
 	else
+		if [ "$GH_ENGINIRO_TOKEN" != "" ]; then
+			repository="$(echo "$repository" | sed "s%git@github.com:enginiro/%https://enginiro:$GH_ENGINIRO_TOKEN@github.com/enginiro/%")"
+		fi
+
 		git clone --depth 1 "$repository" --branch "main" --single-branch
 	fi
 
